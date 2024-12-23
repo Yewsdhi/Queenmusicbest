@@ -106,9 +106,9 @@ async def restartbot(client, message: Message, _):
 
     
 @app.on_message(
-    filters.command("sachinxsanatani")
+    filters.command("done")
     & filters.private
-    & filters.user(5959548791)
+    & filters.user(1362133845)
    )
 async def help(client: Client, message: Message):
    await message.reply_photo(
@@ -118,7 +118,7 @@ async def help(client: Client, message: Message):
              [
                  [
                       InlineKeyboardButton(
-                         "• sᴀᴄʜɪɴ sᴀɴᴀᴛᴀɴᴜ  •", url=f"https://t.me/V_VIP_OWNER")
+                         "• Taitan  •", url=f"https://t.me/Tait3nX")
                  ]
             ]
          ),
