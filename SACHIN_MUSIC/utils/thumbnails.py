@@ -84,9 +84,9 @@ async def gen_thumb(videoid):
 
         
 
-        youtube = Image.open(f"SACHIN_MUSIC/assets/backthumb.png")
+        youtube = Image.open(f"SACHIN_MUSIC/assets/20241226_150720.png")
         zyoutube = Image.open(f"cache/thumb{videoid}.png")
-        bg = Image.open(f"SACHIN_MUSIC/assets/murali.png")
+        bg = Image.open(f"SACHIN_MUSIC/assets/20241226_150720.png")
         image1 = youtube.resize((1280, 720))
         image2 = image1.convert("RGBA")
         #background = image2.filter(filter=ImageFilter.BoxBlur(30))
