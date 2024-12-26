@@ -116,6 +116,7 @@ async def get_thumb(videoid):
     circle_thumbnail = circle_thumbnail.resize((400, 400))
     circle_position = (120, 160)
     background.paste(circle_thumbnail, circle_position, circle_thumbnail)
+    background.paste(Image.open("TaitanXMusic/assets/bg.jpeg")
 
     text_x_position = 565
 
