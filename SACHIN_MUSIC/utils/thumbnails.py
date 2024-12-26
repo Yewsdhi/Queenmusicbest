@@ -111,7 +111,7 @@ async def get_thumb(videoid):
     font = ImageFont.truetype("SACHIN_MUSIC/assets/assets/font.ttf", 30)
     title_font = ImageFont.truetype("SACHIN_MUSIC/assets/assets/font3.ttf", 45)
 
-
+    circle_thumbnail = Image.open("SACHIN_MUSIC/assets/assets/20241226_101751.jpg")
     circle_thumbnail = crop_center_circle(youtube, 400, 20)
     circle_thumbnail = circle_thumbnail.resize((400, 400))
     circle_position = (120, 160)
