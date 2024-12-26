@@ -116,7 +116,8 @@ async def get_thumb(videoid):
     circle_thumbnail = circle_thumbnail.resize((400, 400))
     circle_position = (120, 160)
     background.paste(circle_thumbnail, circle_position, circle_thumbnail)
-    background.paste(Image.open("SACHIN_MUSIC/assets/bg.jpeg"))
+    background.paste(Image.open("SACHIN_MUSIC/assets/20241226_150720.png", "background_postion"))
+    background_postion = changeImageSize(1280, 720, youtube)
 
     text_x_position = 565
 
