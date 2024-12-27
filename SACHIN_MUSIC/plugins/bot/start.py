@@ -26,9 +26,9 @@ from config import BANNED_USERS
 from strings import get_string
 
 NEXIO = [
-    "https://files.catbox.moe/jakpk9.jpg",
-    "https://files.catbox.moe/a8vac3.jpg",
-    "https://files.catbox.moe/7q2xop.jpg",
+    "https://files.catbox.moe/gd7nt0.jpg",
+    "https://files.catbox.moe/gd7nt0.jpg",
+    "https://files.catbox.moe/gd7nt0.jpg",
 ]
 
 
