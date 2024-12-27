@@ -84,7 +84,7 @@ async def gen_thumb(videoid):
 
         
 
-        youtube = Image.open(f"SACHIN_MUSIC/assets/20241226_150720.png")
+        youtube = Image.open(f"SACHIN_MUSIC/assets/20241227_105436.png")
         zyoutube = Image.open(f"cache/thumb{videoid}.png")
         bg = Image.open(f"SACHIN_MUSIC/assets/20241226_150720.png")
         image1 = youtube.resize((1280, 720))
