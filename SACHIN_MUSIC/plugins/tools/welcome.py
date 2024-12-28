@@ -156,7 +156,7 @@ async def greet_new_member(_, member: ChatMemberUpdated):
             welcomeimg = welcomepic(
                 pic, user.first_name, member.chat.title, user.id, user.username
             )
-            button_text = "๏ ᴠɪᴇᴡ ɴᴇᴡ ᴍᴇᴍʙᴇʀ ๏"
+            button_text = "🥀ᴠɪᴇᴡ ɴᴇᴡ ᴍᴇᴍʙᴇʀ🥀"
             add_button_text = "✙ ᴋɪᴅɴᴀᴘ ᴍᴇ ✙"
             deep_link = f"tg://openmessage?user_id={user.id}"
             add_link = f"https://t.me/{app.username}?startgroup=true"
@@ -166,7 +166,7 @@ async def greet_new_member(_, member: ChatMemberUpdated):
                 caption=f"""
 **🪷🫧 ᴍᴏsᴛ ᴡᴇʟᴄᴏᴍᴇ🫧 🪷
 ᴛᴏ ᴛʜᴇ 
-🌱🫧-{title}-☃️⛈
+🌱🫧-{member.chat.title}-☃️⛈
 
 🥀 𝐘𝐨𝐮𝐫 𝐈𝐧𝐟𝐨⬎✨
 𝐍𝐚𝐦𝐞 » {user.mention}
