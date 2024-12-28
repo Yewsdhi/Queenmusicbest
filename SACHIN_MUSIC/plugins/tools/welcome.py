@@ -176,7 +176,6 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 ⚡𝐓ʜɪs ɴᴇᴛᴡᴏʀᴋ ᴘʀᴏᴠɪᴅᴇ 2 𝐙ᴏɴᴇ
 
 🫧• 𝐅ɪʀsᴛ - 𝐂ʜᴀᴛᴛɪɴɢ 𝐙ᴏɴᴇ
-{Already Opened}
 
 ❄️𝗧ʜᴀɴᴋs 𝗙ᴏʀ 𝗝ᴏɪɴɪɴɢ... 𝗜 𝗛ᴏᴘᴇ 𝗬ᴏᴜ 𝗙ᴇᴇʟ 𝗕ᴇᴛᴛᴇʀ ɴᴅ 𝗣ɪᴇᴄᴇғᴜʟʟ 𝗛ᴇʀᴇ... 🫧🌬**
 """,
