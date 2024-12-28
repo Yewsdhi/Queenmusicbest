@@ -7,10 +7,10 @@ from config import BOT_USERNAME
 
 SACHIN = [
     [
-        InlineKeyboardButton(text="✙ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ✙", url=f"https://t.me/HIMANSHI_MUSIC_BOT?startgroup=true"),
+        InlineKeyboardButton(text="✙ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ✙", url=f"https://t.me/AloneXMusicBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/Il_4ST_FIGHTER_lI"),
+        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/AloneXBots"),
     ],
 ]
 
