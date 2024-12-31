@@ -379,25 +379,7 @@ class Helper(object):
 '''
 
 
-   HELP_27 = '''```
-❖ Filters ᴄσϻϻᴧηᴅꜱ ❖```
-
-**❖ Filters ᴄσϻϻᴧηᴅs
-
-❍ /filters To Get All The Filters In The Chat.
-❍ /filter [FILTER_NAME] To Save A Filter(reply to a message).
-
-Supported filter types are Text, Animation, Photo, Document, Video, video notes, Audio, Voice.
-
-To use more words in a filter use.
-❍ /filter Hey_there To filter "Hey there".
-
-❍ /stopfilter [FILTER_NAME] To Stop A Filter.
-❍ /stopall To delete all the filters in a chat (permanently).
-
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
-'''
-
+   
 
     HELP_PROMOTION = '''
 **─────────────────────────
