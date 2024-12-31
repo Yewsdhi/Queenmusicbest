@@ -377,6 +377,8 @@ class Helper(object):
 
 ❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
 '''
+
+
    HELP_27 = '''```
 ❖ Filters ᴄσϻϻᴧηᴅꜱ ❖```
 
@@ -395,6 +397,7 @@ To use more words in a filter use.
 
 ❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
 '''
+
 
     HELP_PROMOTION = '''
 **─────────────────────────
