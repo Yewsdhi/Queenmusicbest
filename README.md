@@ -3,21 +3,26 @@
 ＪＡＩ ＳＨＲＥＥ ＲＡＭ
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-𝗦 𝗔 𝗖 𝗛 𝗜 ꭙ 𝗡 𝗠 𝗨 𝗦 𝗜 𝗖 
+𝗦 𝗔 𝐑 𝐊 𝐀 𝐑 ꭙ  𝗠 𝗨 𝗦 𝗜 𝗖 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">
-    ── ❖ | sᴧᴄʜɪɴ ꭙ sᴧɴᴧᴛᴧɴɪ | ❖ ──
+    ── ❖ | sᴧʀᴋᴀʀ ꭙ sᴧʀᴋᴀʀɪ | ❖ ──
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h2>
 <p align="center">
-  <img src="https://telegra.ph/file/84a0edc74f695b4ae46fd.jpg">
+  <img src="https://graph.org/file/1ac13effa55a82dc9b881-2bf2ae8fd65ca218ac.jpg">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">
     
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=SACHINMUSIC&repo=SACHIN_MUSIC&theme=dark)
+![github card]()
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SIDHIMUSIC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SIDHIMUSIC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 
