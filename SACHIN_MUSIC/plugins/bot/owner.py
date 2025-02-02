@@ -10,12 +10,12 @@ start_txt = """
 **
 ┌┬─────────────────⦿
 │├─────────────────╮
-│├ ᴛɢ ɴᴀᴍᴇ - [⋏ Ł ꪮ ⲛ 𝛆](https://t.me/AlonehuVai)
-│├ ғᴜʟʟ ɪɴғᴏ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/AloneXAbout/3)
+│├ ᴛɢ ɴᴀᴍᴇ - [ sᴧʀᴋᴀʀ ꭙ sᴧʀᴋᴀʀɪ ](https://t.me/II_ROYALENTRY1128_II)
+│├ ғᴜʟʟ ɪɴғᴏ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/II_ROYALENTRY1128_II)
 │├─────────────────╯
 ├┼─────────────────⦿
 │├─────────────────╮
-│├OWNER│ [ᴍʀ ᴀʟᴏɴᴇ]((https://t.me/AlonehuVai)
+│├OWNER│ [sᴧʀᴋᴀʀ ꭙ sᴧʀᴋᴀʀɪ]((https://t.me/II_ROYALENTRY1128_II)
 │├─────────────────╯
 └┴─────────────────⦿
 **
@@ -28,17 +28,17 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton(" 𝗔𝗟𝗢𝗡𝗘 𝗖𝗢𝗗𝗘𝗥 ", url=f"https://t.me/AlonehuVai")
+          InlineKeyboardButton(" 𝗔𝗟𝗢𝗡𝗘 𝗖𝗢𝗗𝗘𝗥 ", url=f"https://t.me/HARRYASHU")
         ],
         [
-          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/AlonehuVai"),
-          InlineKeyboardButton("𝗥𝗘𝗣𝗢", url="https://t.me/AlonehuVai"),
+          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/HARRYASHU"),
+          InlineKeyboardButton("𝗥𝗘𝗣𝗢", url="https://t.me/HARRYASHU"),
           ],
                [
-                InlineKeyboardButton(" 𝗔𝗟𝗢𝗡𝗘 𝗡𝗘𝗧𝗪𝗢𝗥𝗞 ", url=f"https://t.me/AloneXBots"),
+                InlineKeyboardButton(" 𝗔𝗟𝗢𝗡𝗘 𝗡𝗘𝗧𝗪𝗢𝗥𝗞 ", url=f"https://t.me/HARRYASHU"),
 ],
 [
-InlineKeyboardButton("𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧", url=f"https://t.me/AloneXMusicBot"),
+InlineKeyboardButton("𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧", url=f"https://t.me/HARRYASHU"),
 
         ]]
     
