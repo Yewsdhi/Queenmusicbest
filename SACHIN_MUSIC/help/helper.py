@@ -33,7 +33,7 @@ class Helper(object):
 ❍ /stopfilter [ғɪʟᴛᴇʀ_ɴᴀᴍᴇ] ᴛᴏ sᴛᴏᴘ ᴀ ғɪʟᴛᴇʀ.
 ❍ /stopall ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ ᴛʜᴇ ғɪʟᴛᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ (ᴘᴇʀᴍᴀɴᴇɴᴛʟʏ).
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐑𝐨𝐲𝐚𝐥](https://t.me/II_ROYALENTRY1128_II) **
 '''
 
 
@@ -47,7 +47,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐑𝐨𝐲𝐚𝐥](https://t.me/II_ROYALENTRY1128_II) **
 '''
 
     HELP_03 = '''```
