@@ -159,7 +159,7 @@ async def greet_new_member(_, member: ChatMemberUpdated):
             alone_text = "🥀𝗕ᴏᴛ 𝗨ᴘᴅᴀᴛᴇ🥀"
             button_text = "🥀𝗩ɪᴇᴡ 𝗡ᴇᴡ 𝗠ᴇᴍʙᴇʀ🥀"
             add_button_text = "✙ 𝗞ɪᴅɴᴀᴘ 𝗠ᴇ ✙"
-            alone_link = f"https://t.me/AloneXBots"
+            alone_link = f"https://t.me/Queenhoneybot"
             deep_link = f"tg://openmessage?user_id={user.id}"
             add_link = f"https://t.me/{app.username}?startgroup=true"
             temp.MELCOW[f"welcome-{member.chat.id}"] = await app.send_photo(
