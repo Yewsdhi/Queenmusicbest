@@ -33,7 +33,7 @@ class Helper(object):
 ❍ /stopfilter [ғɪʟᴛᴇʀ_ɴᴀᴍᴇ] ᴛᴏ sᴛᴏᴘ ᴀ ғɪʟᴛᴇʀ.
 ❍ /stopall ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ ᴛʜᴇ ғɪʟᴛᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ (ᴘᴇʀᴍᴀɴᴇɴᴛʟʏ).
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐑𝐨𝐲𝐚𝐥](https://t.me/II_ROYALENTRY1128_II) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -47,7 +47,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [𝐑𝐨𝐲𝐚𝐥](https://t.me/II_ROYALENTRY1128_II) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
     HELP_03 = '''```
@@ -58,7 +58,7 @@ class Helper(object):
 
 ❍ /tts : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -68,7 +68,7 @@ class Helper(object):
 ❍ /info : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ υsєʀ.
 ❍ /github <υsєʀηᴧϻє> : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ ɢɪᴛʜυʙ υsєʀ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -81,7 +81,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font Alone Pampa```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
     HELP_06 = '''```
@@ -89,7 +89,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /vctag ➠ ᴠσɪᴄє ᴄʜᴧᴛ ɪηᴠɪᴛє ᴛᴧɢ 
 ❍ /vcstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -128,7 +128,7 @@ class Helper(object):
 ❍ /image ➠ sєᴧʀᴄʜєs ғσʀ ᴧη ɪϻᴧɢє ʙᴧsєᴅ ση ᴧ ɢɪᴠєη ᴋєʏᴡσʀᴅ.
 ❍ /upscale ➠ ʀєᴘʟʏ ᴛσ ᴧη ɪϻᴧɢє ᴛσ υᴘsᴄᴧʟє ɪᴛ ᴧηᴅ ɪϻᴘʀσᴠє ɪᴛs ǫυᴧʟɪᴛʏ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -142,7 +142,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -152,7 +152,7 @@ class Helper(object):
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
