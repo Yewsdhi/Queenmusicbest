@@ -64,10 +64,10 @@ def stream_markup_timer(_, chat_id, played, dur):
          InlineKeyboardButton(text=_["S_B_3"], url=f"https://t.me/{app.username}?startgroup=true",)
         ],
         [
-         InlineKeyboardButton(text="── ❖ | sᴧʀᴋᴀʀ ꭙ sᴧʀᴋᴀʀɪ | ❖ ──", user_id=config.OWNER_ID),
-         InlineKeyboardButton(text="• Uᴘᴅᴀᴛᴇs •", url=config.SUPPORT_CHANNEL),
+      #   InlineKeyboardButton(text="── ❖ | sᴧʀᴋᴀʀ ꭙ sᴧʀᴋᴀʀɪ | ❖ ──", user_id=config.OWNER_ID),
+       #  InlineKeyboardButton(text="• Uᴘᴅᴀᴛᴇs •", url=config.SUPPORT_CHANNEL),
         ],
-      #  [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
+        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
     return buttons
 
