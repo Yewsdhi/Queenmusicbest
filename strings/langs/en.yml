@@ -178,7 +178,6 @@ queue_8 : "❖ <b>{0} ᴘʟᴧʏєʀ</b>\n\n❖ <b>sᴛʀєᴧϻɪηɢ :</b> {1}
 stream_1 : "<b>❖ [𝐁єαтℓєѕ](https://t.me/Queenhoneybot) 𝐎η 𝐒ᴛʀєᴧϻɪηɢ ⏤͟͞●</b>\n\n<b>❍ 𝐓ɪᴛʟє ➥</b> <a href={0}>{1}</a> \n<b>❍ 𝐓ɪϻє ➥</b> {2} 𝐌ɪηυᴛєs \n<b>❍ 𝐁ʏ ➥</b> {3} \n\n<b>❖ 𝐌ᴧᴅє 𝐁ʏ  ➛ [𝐑𝐨𝐲𝐚𝐥](https://t.me/II_ROYALENTRY1128_II) </b>"
 stream_2 : "<b>❖ [𝐁єαтℓєѕ](https://t.me/Queenhoneybot) 𝐎η 𝐒ᴛʀєᴧϻɪηɢ ⏤͟͞●</b>\n\n<b>❍ 𝐒ᴛʀєᴧϻ 𝐓ʏᴘє ➥</b> 𝐋ɪᴠєsᴛʀєᴧϻ [ υʀʟ ]\n<b>❍ 𝐁ʏ ➥</b> {0}"
 
-
 CLOSE_BUTTON  : "⌯ ᴄʟσsє ⌯"
 BACK_BUTTON : "⌯ ʙᴧᴄᴋ ⌯"
 NEXT_PAGE: "▷"
