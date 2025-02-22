@@ -177,7 +177,7 @@ class Helper(object):
 ❍ /boobs [ᴄʜєᴄᴋ ʏσυʀ ʙσσʙɪєs sɪᴢє]
 ❍ /dick [ᴄʜєᴄᴋ ʏσυʀ ᴅɪᴄᴋ sɪᴢє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -189,7 +189,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -230,7 +230,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
     HELP_15 = '''```
@@ -239,7 +239,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -256,7 +256,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ❍ /pinned ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ᴘɪηηєᴅ ϻєssᴧɢє ɪη ᴛʜє ɢʀσυᴘ
 ❍ /unpin ➠ υηᴘɪηs ᴛʜє ᴄυʀʀєηᴛʟʏ ᴘɪηηєᴅ ϻєssᴧɢє
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -293,7 +293,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -304,7 +304,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -321,7 +321,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -332,7 +332,7 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
     HELP_23 = '''```
@@ -340,7 +340,7 @@ class Helper(object):
 
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
     HELP_24 = '''```
@@ -348,7 +348,7 @@ class Helper(object):
 
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -366,7 +366,7 @@ class Helper(object):
 ❍ /ask ➠ ǫυєʀɪєs ᴛʜє ᴧɪ ϻσᴅєʟ ᴛσ ɢєᴛ ᴧ ʀєsᴘσηsє ᴛσ ʏσυʀ ǫυєsᴛɪση
 ❍ /stack ➠ sєᴧʀᴄʜєs ғσʀ ᴘʀσɢʀᴧϻϻɪηɢ-ʀєʟᴧᴛєᴅ ɪηғσʀϻᴧᴛɪση ση sᴛᴧᴄᴋ σᴠєʀғʟσᴡ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -377,7 +377,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) **
 '''
 
 
@@ -403,13 +403,13 @@ class Helper(object):
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [ᴄʟɪᴄᴋ ϻє](https://t.me/AloneHuVai)
-❍ ᴄσηᴛᴧᴄᴛ - [ᴄʟɪᴄᴋ ϻє](https://t.me/AloneHuVai)
+❍ ᴄσηᴛᴧᴄᴛ - [ᴄʟɪᴄᴋ ϻє](https://t.me/Queenhoneybot)
+❍ ᴄσηᴛᴧᴄᴛ - [ᴄʟɪᴄᴋ ϻє](https://t.me/Queenhoneybot)
 ─────────────────────────**
 '''
     HELP_ALLBOT = '''
 **─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ [˹𝞚𝙡𝞸𝞰𝞮 ✗ 𝙈𝙪𝙨𝙞𝙘 ♪˼](https://t.me/AloneXMusicBot) ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ [˹𝚀𝚄𝙴𝙴𝙽 ✘ ᴍᴜsɪᴄ˼˼](https://t.me/Queenhoneybot) ʙσᴛ sᴛᴧᴛυs │
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
@@ -423,11 +423,11 @@ class Helper(object):
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 05
 
 ─────────────────────────
-⊚ ʙσᴛ ᴜᴘᴅᴀᴛᴇ ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/AloneXBots)
+⊚ ʙσᴛ ᴜᴘᴅᴀᴛᴇ ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/Queenhoneybot)
 ─────────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 Sep 2024 
 ─────────────────────────
-❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [ϻя ᴀℓσиє](https://t.me/AloneHuVai) ˼
+❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [𝐐𝐔𝐄𝐄𝐍](https://t.me/Queenhoneybot) ˼
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
@@ -447,10 +447,10 @@ class Helper(object):
 ● ᴧηɪϻє ʙσᴛ ғυηᴄᴛɪσηᴧʟɪᴛʏ
 ● ᴧɪ ɪηᴛєɢʀᴧᴛɪση
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/AloneXBots)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/AlonesHeaven)
-❖ ʀєᴧʟ σᴡηєʀ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/AloneHuVai)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/AloneHuVai)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/ll_DPZ_WORLDS_ll)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/queenbotgrup)
+❖ ʀєᴧʟ σᴡηєʀ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/II_ROYALENTRY1128_II)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](˹https://t.me/Queenhoneybot)
 ─────────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
     ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!
