@@ -3,7 +3,7 @@
 ＪＡＩ ＳＨＲＥＥ ＲＡＭ
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-𝗦 𝗔 𝐑 𝐊 𝐀 𝐑 ꭙ  𝗠 𝗨 𝗦 𝗜 𝗖 
+˹𝚀 𝚄 𝙴 𝙴 𝙽 ✘ ᴍ ᴜ s ɪ ᴄ˼ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">
     ── ❖ | sᴧʀᴋᴀʀ ꭙ sᴧʀᴋᴀʀɪ | ❖ ──
