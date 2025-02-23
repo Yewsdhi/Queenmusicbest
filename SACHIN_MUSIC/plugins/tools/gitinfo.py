@@ -17,7 +17,7 @@ async def daxxhub(_, message):
 @app.on_message(filters.command(["github", "git"]))
 async def github(_, message):
     if len(message.command) != 2:
-        await message.reply_text("`/git LAND LE LE ALONE KA MADRCHOD` [ @Queenhoneybot ]")
+        await message.reply_text("`/git •↑𝗲𝗸 𝘁𝘂 𝗵𝗶 𝘁𝞂 𝗵𝝰𝗶 𝘄𝞂 ʝ𝗶𝘀𝗲 𝗱𝗲𝗸𝗵𝗲 β𝗶𝝶𝝰 𝗺𝗲𝗿𝝰 𝗱𝗶𝝶 N𝝰𝗵𝗶 G𝘂z𝝰𝗿𝘁𝝰` [ @Queenhoneybot ]")
         return
 
     username = message.text.split(None, 1)[1]
