@@ -175,12 +175,7 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 » @{user.username}
 𝐈𝐃 » {user.id}
 
-⚡𝐓ʜɪs ɴᴇᴛᴡᴏʀᴋ ᴘʀᴏᴠɪᴅᴇ 2 𝐙ᴏɴᴇ
-
-🫧• 𝐅ɪʀsᴛ - 𝐂ʜᴀᴛᴛɪɴɢ 𝐙ᴏɴᴇ
-
-❄️𝗧ʜᴀɴᴋs 𝗙ᴏʀ 𝗝ᴏɪɴɪɴɢ... 𝗜 𝗛ᴏᴘᴇ 𝗬ᴏᴜ 𝗙ᴇᴇʟ 𝗕ᴇᴛᴛᴇʀ ɴᴅ 𝗣ɪᴇᴄᴇғᴜʟʟ 𝗛ᴇʀᴇ... 🫧🌬**
-""",
+______________________________
                 reply_markup=InlineKeyboardMarkup([
                     [InlineKeyboardButton(alone_text, url=alone_link)],
                     [InlineKeyboardButton(button_text, url=deep_link)],
