@@ -175,10 +175,6 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 » @{user.username}
 𝐈𝐃 » {user.id}
 
-⚡
-
-🫧
-
 ❄️𝗧ʜᴀɴᴋs 𝗙ᴏʀ 𝗝ᴏɪɴɪɴɢ... 🫧🌬**
 """,
                 reply_markup=InlineKeyboardMarkup([
